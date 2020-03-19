@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Cesar Sosa-Padilla</title>
+    <link>/</link>
+    <description>Recent content in Home on Cesar Sosa-Padilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Hugo XMin</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+    </item>
+    
+    <item>
+      <title>CV &amp; Bio</title>
+      <link>/vitae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vitae/</guid>
+      <description>Here is a link to the latest version of my CV.
+I am an international macroeconomist with research interests in the fields of international finance, macroeconomics and fiscal policy. Most of my recent research has focused on understanding sovereign default crises. Prior to coming to Notre Dame, I was an Assistant Professor of Economics at McMaster University (Canada). At Notre Dame I teach macroeconomics at the undergraduate level and international economics at the graduate level.</description>
+    </item>
+    
+    <item>
+      <title>Recent conferences I&#39;ve organized</title>
+      <link>/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/conferences/</guid>
+      <description> 2019 ND-PUC Luksburg Conference on Recent Advances in Macroeconomics (program)
+ Conferencia Anual de Egresados del INVECO-UNT: 2018, 19 (link)
+ ND International Economics and Finance Workshop: 2017, 18, 19
+ 2017 IM-TCD-ND Workshop on Int&amp;rsquo;l Macroeconomics and Capital Flows (link)
+ 2015 McMaster Int&amp;rsquo;l Economics Workshop (program)
+ 2014 Canadian Macro Study Group (link)
+  </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>[BibTex]  Publications 5. Trade Liberalization and Firm Productivity: Estimation Methods Matter  with John Kealy and Pau S. Pujolàs.
+Economic Inquiry, Volume 57(3), July 2019, pages 1272-1283.
+PDF &amp;nbsp; Online appendix &amp;nbsp; Journal link &amp;nbsp; BibTex
+ 4. Sovereign Defaults and Banking Crises  Journal of Monetary Economics, Volume 99, November 2018, pages 88-105.
+PDF &amp;nbsp; Online appendix &amp;nbsp; Journal link &amp;nbsp; BibTex
+ 3. Debt Dilution and Sovereign Default Risk  with Juan Carlos Hatchondo and Leonardo Martinez</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>University of Notre Dame  1. Econ 70552: International Macroeconomics (Ph.D. level - Fall 2018)  Syllabus: here Material: please visit our course&amp;rsquo;s site in Sakai.  2. Econ 30020: Intermediate Macroeconomics Theory (UG level - Fall 2018)  Syllabus: here Slides:  Intro slides: here Slides for the Modern Macroeconomics book&amp;rsquo;s intro chapter: here Review of Consumer Theory: here Additional Readings: What Economists do, Funes the Memorious    &amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>

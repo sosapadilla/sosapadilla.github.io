@@ -6,31 +6,31 @@
     <description>Recent content in Home on Cesar Sosa-Padilla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-
+    
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-
-
+    
+    
     <item>
       <title>CV &amp; Bio</title>
       <link>/vitae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>/vitae/</guid>
       <description>Here is a link to the latest version of my CV.
 I am an international macroeconomist with research interests in the fields of international finance, macroeconomics and fiscal policy. Most of my recent research has focused on understanding sovereign default crises.
 Prior to coming to Notre Dame, I was an Assistant Professor of Economics at McMaster University (in Canada). At Notre Dame I teach macroeconomics at the undergraduate level and international economics at the graduate level.</description>
     </item>
-
+    
     <item>
       <title>Macroeconomía Internacional 2020 (Parte II)</title>
       <link>/curso_unt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>/curso_unt/</guid>
       <description> Bienvenidos a la segunda parte del curso de Macroeconomía Internacional 2020. En este sitio voy a colgar informacion relevante del curso: programa, slides, lecturas y otros links.
-Programa  El programa preliminar (sujeto a cambios) está aquí.  Slides  Primera clase: hechos estilizados de economias emergentes: pdf  Lecturas  Aguiar and Gopinath 2007 (JPE, 2007) &amp;ndash; link Fernandez, Gonzalez and Rodriguez (JIE, 2018) &amp;ndash; link Fernandez-Villaverde, Guerron-Quintana, Rubio-Ramirez and Uribe (AER, 2011) &amp;ndash; link Garcia-Cicco, Pancrazi and Uribe (AER, 2010) &amp;ndash; link Johri, Khan and Sosa-Padilla (R&amp;amp;R JIE, 2020) &amp;ndash; link Mendoza (AER, 1991) &amp;ndash; link Mendoza (IER, 1995) &amp;ndash; link Neumyer and Perri (JME, 2005) &amp;ndash; link Obstfled (QJE, 1982) &amp;ndash; link Schmitt-Grohe and Uribe (JIE, 2003) &amp;ndash; link Uribe and Yue (JIE, 2006) &amp;ndash; link  </description>
+Programa  El programa preliminar (sujeto a cambios) está aquí.  Slides  Clase 1: hechos estilizados de economias emergentes: pdf Clases 2 y 3: una economía de dotación y abierta: pdf  Lecturas  Aguiar and Gopinath 2007 (JPE, 2007) &amp;ndash; link Fernandez, Gonzalez and Rodriguez (JIE, 2018) &amp;ndash; link Fernandez-Villaverde, Guerron-Quintana, Rubio-Ramirez and Uribe (AER, 2011) &amp;ndash; link Garcia-Cicco, Pancrazi and Uribe (AER, 2010) &amp;ndash; link Johri, Khan and Sosa-Padilla (R&amp;amp;R JIE, 2020) &amp;ndash; link Mendoza (AER, 1991) &amp;ndash; link Mendoza (IER, 1995) &amp;ndash; link Neumyer and Perri (JME, 2005) &amp;ndash; link Obstfled (QJE, 1982) &amp;ndash; link Schmitt-Grohe and Uribe (JIE, 2003) &amp;ndash; link Uribe and Yue (JIE, 2006) &amp;ndash; link  </description>
     </item>
-
+    
     <item>
       <title>Recent conferences I&#39;ve organized</title>
       <link>/conferences/</link>
@@ -45,12 +45,12 @@ Programa  El programa preliminar (sujeto a cambios) está aquí.  Slides  Primer
  2014 Canadian Macro Study Group (link)
   </description>
     </item>
-
+    
     <item>
       <title>Research</title>
       <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>/research/</guid>
       <description>[BibTex]  Publications 5. Trade Liberalization and Firm Productivity: Estimation Methods Matter  with John Kealy and Pau S. Pujolàs.
 Economic Inquiry, Volume 57(3), July 2019, pages 1272-1283.
@@ -59,15 +59,15 @@ PDF &amp;nbsp; Online appendix &amp;nbsp; Journal link &amp;nbsp; BibTex
 PDF &amp;nbsp; Online appendix &amp;nbsp; Journal link &amp;nbsp; BibTex
  3. Debt Dilution and Sovereign Default Risk  with Juan Carlos Hatchondo and Leonardo Martinez</description>
     </item>
-
+    
     <item>
       <title>Teaching</title>
       <link>/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>/teaching/</guid>
       <description>University of Notre Dame  1. Econ 70552: International Macroeconomics (Ph.D. level - Fall 2018)  Syllabus: here Material: please visit our course&amp;rsquo;s site in Sakai.  2. Econ 30020: Intermediate Macroeconomics Theory (UG level - Fall 2018)  Syllabus: here Slides:  Intro slides: here Slides for the Modern Macroeconomics book&amp;rsquo;s intro chapter: here Review of Consumer Theory: here Additional Readings: What Economists do, Funes the Memorious    &amp;nbsp;</description>
     </item>
-
+    
   </channel>
 </rss>

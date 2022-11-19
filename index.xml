@@ -11,6 +11,20 @@
     
     
     <item>
+      <title>Code Repository</title>
+      <link>https://sosapadilla.github.io/code_repository/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sosapadilla.github.io/code_repository/</guid>
+      <description>This repository site contains codes, data and README files that allow for the replication of some of my published and forthcoming papers.
+1. Interest Rate Uncertainty and Sovereign Default Risk  with Alok Johri and Shahed K. Khan
+Journal of International Economics, Volume 139, November 2022. PDF
+- README file here.
+- ZIP file with codes to replicate the empirical and quantitative model results here.
+ 2. Does It Matter How Central Banks Accumulate Reserves?</description>
+    </item>
+    
+    <item>
       <title>CV &amp; Bio</title>
       <link>https://sosapadilla.github.io/vitae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -66,8 +80,7 @@ Files  README file here. ZIP file with codes to replicate the empirical and quan
       <description>[BibTex]  My Research Statement can be found here. &amp;nbsp;
 Publications 6. Interest Rate Uncertainty and Sovereign Default Risk  with Alok Johri and Shahed K. Khan.
 Journal of International Economics, Volume 139, November 2022.
-PDF (w/ Appendix) &amp;nbsp; JIE version &amp;nbsp; Journal link &amp;nbsp; Code repository
- 5. Trade Liberalization and Firm Productivity: Estimation Methods Matter  with John Kealy and Pau S. Pujolàs.
+PDF (w/ Appendix) &amp;nbsp; JIE version &amp;nbsp; Journal link &amp;nbsp; Code repository  5. Trade Liberalization and Firm Productivity: Estimation Methods Matter  with John Kealy and Pau S. Pujolàs.
 Economic Inquiry, Volume 57(3), July 2019, pages 1272-1283.</description>
     </item>
     

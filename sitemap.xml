@@ -1,45 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://sosapadilla.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sosapadilla.github.io/code_repository/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sosapadilla.github.io/vitae/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sosapadilla.github.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sosapadilla.github.io/curso_unt/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sosapadilla.github.io/conferences/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sosapadilla.github.io/repository_jks_for_jie/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sosapadilla.github.io/research/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sosapadilla.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sosapadilla.github.io/teaching/</loc>
   </url>
-  
 </urlset>

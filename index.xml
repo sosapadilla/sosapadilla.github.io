@@ -5,11 +5,7 @@
     <link>https://sosapadilla.github.io/</link>
     <description>Recent content in Home on Cesar Sosa-Padilla</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://sosapadilla.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://sosapadilla.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Repository</title>
       <link>https://sosapadilla.github.io/code_repository/</link>
@@ -17,11 +13,9 @@
       
       <guid>https://sosapadilla.github.io/code_repository/</guid>
       <description>This repository site contains codes, data and README files that allow for the replication of some of my published and forthcoming papers.
-1. Interest Rate Uncertainty and Sovereign Default Risk  with Alok Johri and Shahed K. Khan
-Journal of International Economics, Volume 139, November 2022. PDF
-- README file here.
-- ZIP file with codes to replicate the empirical and quantitative model results here.
- 2. Does It Matter How Central Banks Accumulate Reserves?</description>
+1. Interest Rate Uncertainty and Sovereign Default Risk with Alok Johri and Shahed K. Khan
+Journal of International Economics, Volume 139, November 2022. PDF\
+README file here.\ ZIP file with codes to replicate the empirical and quantitative model results here. 2. Does It Matter How Central Banks Accumulate Reserves?</description>
     </item>
     
     <item>
@@ -41,8 +35,8 @@ Prior to coming to Notre Dame, I was an Assistant Professor of Economics at McMa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sosapadilla.github.io/curso_unt/</guid>
-      <description> Bienvenidos a la segunda parte del curso de Macroeconomía Internacional 2020. En este sitio voy a colgar informacion relevante del curso: programa, slides, lecturas y otros links.
-Programa  El programa preliminar (sujeto a cambios) está aquí.  Slides  Clase 1: hechos estilizados de economías emergentes: pdf Clases 2 y 3: una economía de dotación y abierta: pdf Clases 4 y 5: una economía abierta con capital: pdf Clases 5 y 6: modelo RBC en una economía abierta: pdf Clases 7 y 8: aplicación a economías emergentes: pdf  Lecturas  Aguiar and Gopinath 2007 (JPE, 2007) &amp;ndash; link Fernandez, Gonzalez and Rodriguez (JIE, 2018) &amp;ndash; link Fernandez-Villaverde, Guerron-Quintana, Rubio-Ramirez and Uribe (AER, 2011) &amp;ndash; link Garcia-Cicco, Pancrazi and Uribe (AER, 2010) &amp;ndash; link Johri, Khan and Sosa-Padilla (R&amp;amp;R JIE, 2020) &amp;ndash; link Mendoza (AER, 1991) &amp;ndash; link Mendoza (IER, 1995) &amp;ndash; link Neumyer and Perri (JME, 2005) &amp;ndash; link Obstfled (QJE, 1982) &amp;ndash; link Schmitt-Grohe and Uribe (JIE, 2003) &amp;ndash; link Uribe and Yue (JIE, 2006) &amp;ndash; link  </description>
+      <description>Bienvenidos a la segunda parte del curso de Macroeconomía Internacional 2020. En este sitio voy a colgar informacion relevante del curso: programa, slides, lecturas y otros links.
+Programa El programa preliminar (sujeto a cambios) está aquí. Slides Clase 1: hechos estilizados de economías emergentes: pdf Clases 2 y 3: una economía de dotación y abierta: pdf Clases 4 y 5: una economía abierta con capital: pdf Clases 5 y 6: modelo RBC en una economía abierta: pdf Clases 7 y 8: aplicación a economías emergentes: pdf Lecturas Aguiar and Gopinath 2007 (JPE, 2007) &amp;ndash; link Fernandez, Gonzalez and Rodriguez (JIE, 2018) &amp;ndash; link Fernandez-Villaverde, Guerron-Quintana, Rubio-Ramirez and Uribe (AER, 2011) &amp;ndash; link Garcia-Cicco, Pancrazi and Uribe (AER, 2010) &amp;ndash; link Johri, Khan and Sosa-Padilla (R&amp;amp;R JIE, 2020) &amp;ndash; link Mendoza (AER, 1991) &amp;ndash; link Mendoza (IER, 1995) &amp;ndash; link Neumyer and Perri (JME, 2005) &amp;ndash; link Obstfled (QJE, 1982) &amp;ndash; link Schmitt-Grohe and Uribe (JIE, 2003) &amp;ndash; link Uribe and Yue (JIE, 2006) &amp;ndash; link </description>
     </item>
     
     <item>
@@ -51,14 +45,13 @@ Programa  El programa preliminar (sujeto a cambios) está aquí.  Slides  Clase 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sosapadilla.github.io/conferences/</guid>
-      <description> PAELLA Workshop at Notre Dame: 2017&amp;ndash;present (most recent program)
- 2019 ND-PUC Luksburg Conference on Recent Advances in Macroeconomics (program)
- Conferencia Anual de Egresados del INVECO-UNT: 2018&amp;ndash;present (link)
- ND International Economics and Finance Workshop: 2017, 18, 19
- 2017 IM-TCD-ND Workshop on Int&amp;rsquo;l Macroeconomics and Capital Flows (link)
- 2015 McMaster Int&amp;rsquo;l Economics Workshop (program)
- 2014 Canadian Macro Study Group (link)
-  </description>
+      <description>PAELLA Workshop at Notre Dame: 2017&amp;ndash;present (most recent program)
+2019 ND-PUC Luksburg Conference on Recent Advances in Macroeconomics (program)
+Conferencia Anual de Egresados del INVECO-UNT: 2018&amp;ndash;present (link)
+ND International Economics and Finance Workshop: 2017, 18, 19
+2017 IM-TCD-ND Workshop on Int&amp;rsquo;l Macroeconomics and Capital Flows (link)
+2015 McMaster Int&amp;rsquo;l Economics Workshop (program)
+2014 Canadian Macro Study Group (link)</description>
     </item>
     
     <item>
@@ -67,8 +60,8 @@ Programa  El programa preliminar (sujeto a cambios) está aquí.  Slides  Clase 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sosapadilla.github.io/repository_jks_for_jie/</guid>
-      <description> This repository site contains all the necessary information and files to replicate the paper &amp;ldquo;Interest Rate Uncertainty and Sovereign Default Risk&amp;rdquo; by Alok Johri, Shahed Khan and Cesar Sosa-Padilla
-Files  README file here. ZIP file with codes to replicate the empirical and quantitative model results here.  </description>
+      <description>This repository site contains all the necessary information and files to replicate the paper &amp;ldquo;Interest Rate Uncertainty and Sovereign Default Risk&amp;rdquo; by Alok Johri, Shahed Khan and Cesar Sosa-Padilla
+Files README file here. ZIP file with codes to replicate the empirical and quantitative model results here. </description>
     </item>
     
     <item>
@@ -77,12 +70,12 @@ Files  README file here. ZIP file with codes to replicate the empirical and quan
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sosapadilla.github.io/research/</guid>
-      <description>[BibTex]  My Research Statement can be found here. &amp;nbsp;
-Publications 9. Reserve Accumulation, Macroeconomic Stabilization, and Sovereign Risk  with Javier Bianchi.
-Review of Economic Studies, Accepted, February 2023. [February &amp;lsquo;23 pdf] &amp;nbsp; [Slides]
- 8. The Macroeconomic Consequences of International Financial Sanctions  with Javier Bianchi.
+      <description>[BibTex] My Research Statement can be found here. Publications 9. Reserve Accumulation, Macroeconomic Stabilization, and Sovereign Risk with Javier Bianchi.
+Review of Economic Studies, Accepted, February 2023. [PDF] [Slides]
+8. The Macroeconomic Consequences of International Financial Sanctions with Javier Bianchi.
 AEA P&amp;amp;P, 113:29–32, May 2023. [PDF]
- 7. Does It Matter How Central Banks Accumulate Reserves? Evidence from Sovereign Spreads  with Federico Sturzenegger.</description>
+7. Does It Matter How Central Banks Accumulate Reserves? Evidence from Sovereign Spreads with Federico Sturzenegger.
+Journal of International Economics, Volume 140, January 2023.</description>
     </item>
     
     <item>
@@ -91,7 +84,7 @@ AEA P&amp;amp;P, 113:29–32, May 2023. [PDF]
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sosapadilla.github.io/teaching/</guid>
-      <description>University of Notre Dame  1. Econ 70552: International Macroeconomics (Ph.D. level - Fall 2020)  Syllabus: here Material: please visit our course&amp;rsquo;s site in Sakai.  2. Econ 30020: Intermediate Macroeconomics Theory (UG level - Fall 2022)  Syllabus: here Slides:  Intro slides: here Slides for the Modern Macroeconomics book&amp;rsquo;s intro chapter: here Review of Consumer Theory: here Additional Readings: What Economists do, Funes the Memorious    &amp;nbsp;</description>
+      <description>University of Notre Dame 1. Econ 70552: International Macroeconomics (Ph.D. level - Fall 2020) Syllabus: here Material: please visit our course&amp;rsquo;s site in Sakai. 2. Econ 30020: Intermediate Macroeconomics Theory (UG level - Fall 2022) Syllabus: here Slides: Intro slides: here Slides for the Modern Macroeconomics book&amp;rsquo;s intro chapter: here Review of Consumer Theory: here Additional Readings: What Economists do, Funes the Memorious McMaster University 1. Econ 724: Macroeconomic Theory II (Ph.</description>
     </item>
     
   </channel>
